@@ -17,13 +17,3 @@ O personagem (pássaro) se movimenta na horizonta seguindo para a direita, o jog
 
 ![Mecânica](mecanicas.png)
 
-## Gameplay
-Itens que estão presentes no jogo.
-
-![Gameplay](gameplay.png)
-
-
-## Publicação
-https://m.apkpure.com/br/flappygame/com.mygdx.game.flappybird
-
-## Última atualização 01/01/21
