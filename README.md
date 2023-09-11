@@ -1,2 +1,2 @@
-# BancodeDados
+# EXERCICIO PETSHOP
 AC1
