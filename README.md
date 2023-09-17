@@ -17,7 +17,7 @@ Cada projeto tem um nome, data de lançamento, gênero e faixa etária. Segundo 
 
 Segue abaixo a figura referente ao exercício.
 
-![PRODUTORA](https://github.com/RodrigoMaMoraes/BancodeDadosAC1/blob/main/ETAPAS%201%2C%202%20E%204%20PRODUTORA/PRODUTORA.png)
+![PRODUTORA(https://github.com/RodrigoMaMoraes/BancodeDadosAC1/blob/main/ETAPAS%201%2C%202%20E%204%20PRODUTORA/PRODUTORA%202.png)
 
 
 
