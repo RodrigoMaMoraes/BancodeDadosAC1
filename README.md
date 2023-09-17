@@ -98,7 +98,6 @@ Segue abaixo a figura referente ao exercício.
 ##  Etapa 3 - INTRODUÇÃO A LINGUAGEM SQL
 
 
-Exercícios :
 1 — Crie um banco de dados para armazenar dados de alunos. Um aluno deve ter RA, nome, data de nascimento, endereço e e-mail;
 
 2 — Crie um banco de dados para armazenar dados de colaboradores de uma empresa. Um colaborador deve ter um código de identificação, nome, CPF, cargo e salário;
