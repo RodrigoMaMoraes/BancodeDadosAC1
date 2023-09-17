@@ -21,7 +21,7 @@ Segue abaixo a figura referente ao exercício.
 ![PRODUTORA](https://github.com/RodrigoMaMoraes/BancodeDadosAC1/blob/main/ETAPAS%201%2C%202%20E%204%20PRODUTORA/PRODUTORA%202.png)
 
 
-(NESTE EXERCÍCIO SERÁ OBSERVADO A CARDINALIDADE ENTRE OS COMPONENTES APRESENTADOS, ALÉM DA IDENTIFICAÇÃO DOS ELEMENTOS DO DER).
+## NESTE EXERCÍCIO SERÁ OBSERVADO A CARDINALIDADE ENTRE OS COMPONENTES APRESENTADOS, ALÉM DA IDENTIFICAÇÃO DOS ELEMENTOS DO DER.
 
 
 BIBLIOTECA:Uma biblioteca efetua registro de autores e livros. Um autor é cadastrado com seu nome, e-mail, nacionalidade e data de nascimento. Já um livro é registrado com o título, quantidade de páginas, acabamento e editora.
