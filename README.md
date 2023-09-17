@@ -30,6 +30,12 @@ Segue abaixo a figura referente ao exercício.
 
 ![BIBLIOTECA](https://github.com/RodrigoMaMoraes/BancodeDadosAC1/blob/main/ETAPAS%201%2C%202%20E%204%20BIBLIOTECA/BIBLIOTECA.png)
 
+LOCADORA DE CARROS: Uma locadora de automóveis, mantém registro dos automóveis. Um automóvel é cadastrado com placa, modelo, ano, nome da montadora, site da montadora, logotipo da montadora.
+
+Segue abaixo a figura referente ao exercício.
+
+![LOCADORA](https://github.com/RodrigoMaMoraes/BancodeDadosAC1/blob/main/ETAPAS%201%2C%202%20E%204%20LOCADORA/LOCADORA.png)
+
 
 ## Etapa 3
 O personagem (pássaro) se movimenta na horizonta seguindo para a direita, o jogo estabelece uma gravidade no personagem e irão aparecer obstaculos (canos) no caminho do personagem. O jogador deverá tocar na tela do celular para executar pequenos saltos para ultrapassar a abertura entre os canos. A cada ultrapassagem será adicionado um ponto no marcador. Caso o jogador encoste no cano o jogo términa e será apresentado a pontuação que o jogador realizou na partida e a melhor que tenha realizado jogando.
