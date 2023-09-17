@@ -1,0 +1,51 @@
+
+CREATE TABLE livro (
+	titulo          VARCHAR (50),
+	quanti_pagina	INT,
+	acabamento     	VARCHAR (20),
+  	editora		VARCHAR (30)
+                   
+);
+
+INSERT INTO livro (titulo, quanti_pagina, acabamento, editora)
+VALUES ('José - Bar 2 zé', 120, 'Capa dura', 'Quatro Ventos');
+
+INSERT INTO livro (titulo, quanti_pagina, acabamento, editora)
+VALUES ('Brilha, faz brilhar', 150, 'Brochura', 'Quatro Ventos');
+
+INSERT INTO livro (titulo, quanti_pagina, acabamento, editora)
+VALUES ('O Pequeno Príncipe', 96, 'Capa dura', 'Quatro Ventos');
+
+INSERT INTO livro (titulo, quanti_pagina, acabamento, editora)
+VALUES ('Jogador Numero Um', 350, 'Brochura', 'Quatro Ventos'); 
+
+INSERT INTO livro (titulo, quanti_pagina, acabamento, editora)
+VALUES ('A Culpa é das Estrelas', 288, 'Brochura', 'Quatro Ventos');
+
+SELECT * FROM livro;
+
+CREATE TABLE autor(
+	nome          VARCHAR (50),
+	data_nascimento DATE,
+	email     	VARCHAR (20),
+  	nacionalidade	VARCHAR (30)
+                   
+);
+
+INSERT INTO autor (nome, data_nascimento, email, nacionalidade)
+VALUES ('Bob Marreta', '1995-07-10', 'BobMarreta@gmail.com', 'Estados Unidos');
+
+INSERT INTO autor (nome, data_nascimento, email, nacionalidade)
+VALUES ('Maria José da Silva', '1990-02-15', 'mariasilva@gmail.com', 'Brasil');
+
+INSERT INTO autor (nome, data_nascimento, email, nacionalidade)
+VALUES ('José Maria da Silva', '1980-11-30', 'zemariasilva@gmail.com', 'Alemanha');
+
+INSERT INTO autor (nome, data_nascimento, email, nacionalidade)
+VALUES ('Pedro Rice', '1982-06-25', 'pedrorice@gmail.com', 'Espanha');
+
+INSERT INTO autor (nome, data_nascimento, email, nacionalidade)
+VALUES ('Fujiro Nakombi', '1995-04-08', 'NakombiFuji@gmail.com', 'Japão');
+
+SELECT * FROM autor;
+

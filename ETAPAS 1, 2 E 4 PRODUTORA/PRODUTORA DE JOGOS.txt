@@ -1,0 +1,62 @@
+CREATE TABLE dev (
+    nome VARCHAR(100) ,
+    cpf VARCHAR(11) PRIMARY KEY,
+    data_nascimento DATE
+);
+
+
+INSERT INTO dev (nome, cpf, data_nascimento)
+VALUES ('João da Silva', '12345678901', '1990-05-15');
+
+
+INSERT INTO dev (nome, cpf, data_nascimento)
+VALUES ('Maria José', '12345678902', '1995-12-10');
+
+
+INSERT INTO dev (nome, cpf, data_nascimento)
+VALUES ('Pedro Rice', '12345678903', '1995-03-20');
+
+
+INSERT INTO dev (nome, cpf, data_nascimento)
+VALUES ('Ana Banana', '12345678904', '1995-07-25');
+
+
+INSERT INTO dev (nome, cpf, data_nascimento)
+VALUES ('Lucas Lucco', '12345678905', '1995-09-05');
+
+SELECT*FROM dev;
+
+CREATE TABLE projeto (
+    nome VARCHAR(100) ,
+    data_lancamento DATE ,
+    genero VARCHAR(50) ,
+    faixa_etaria VARCHAR(20)
+);
+
+
+INSERT INTO projeto (nome, data_lancamento, genero, faixa_etaria)
+VALUES ('Jogo Aventura 1', '2022-05-20', 'Aventura', '12+');
+
+
+INSERT INTO projeto (nome, data_lancamento, genero, faixa_etaria)
+VALUES ('Jogo Comédia 1', '2023-02-15', 'Comédia', '16+');
+
+
+INSERT INTO projeto (nome, data_lancamento, genero, faixa_etaria)
+VALUES ('Jogo Ficção Científica 1', '2021-09-10', 'Ficção Científica', '18+');
+
+
+INSERT INTO projeto (nome, data_lancamento, genero, faixa_etaria)
+VALUES ('Jogo Mistérioso 1', '2020-11-30', 'Mistério', '14+');
+
+
+INSERT INTO projeto (nome, data_lancamento, genero, faixa_etaria)
+VALUES ('Jogo de Estratégia 1', '2022-07-05', 'Estratégia', '10+');
+
+SELECT*FROM projeto;
+
+
+
+
+
+

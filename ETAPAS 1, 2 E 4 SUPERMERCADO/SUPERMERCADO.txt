@@ -1,0 +1,32 @@
+CREATE TABLE produto (
+    id INTEGER PRIMARY KEY,
+    nome VARCHAR(100),
+    preco DECIMAL(10, 2),
+    quantidade_estoque INT ,
+    nome_marca VARCHAR(100),
+    sac_marca VARCHAR(100),
+    nacionalidade_marca VARCHAR(50)
+);
+
+
+
+INSERT INTO produto (nome, preco, quantidade_estoque, nome_marca, sac_marca, nacionalidade_marca)
+VALUES ('Arroz Integral 1kg', 4.99, 100, 'Tio João', '0800-123-4567', 'Brasil');
+
+
+INSERT INTO produto (nome, preco, quantidade_estoque, nome_marca, sac_marca, nacionalidade_marca)
+VALUES ('Leite Desnatado 1L', 2.49, 80, 'Italac', '0800-789-1234', 'Brasil');
+
+
+INSERT INTO produto (nome, preco, quantidade_estoque, nome_marca, sac_marca, nacionalidade_marca)
+VALUES ('Macarrão Integral 500g', 3.79, 120, 'Renata', '0800-456-7890', 'Brasil');
+
+
+INSERT INTO produto (nome, preco, quantidade_estoque, nome_marca, sac_marca, nacionalidade_marca)
+VALUES ('Coca Cola 2L', 5.99, 60, 'Coca Cola', '0800-987-6543', 'Brasil');
+
+
+INSERT INTO produto (nome, preco, quantidade_estoque, nome_marca, sac_marca, nacionalidade_marca)
+VALUES ('Azeite de Oliva Extra Virgem 250ml', 9.99, 50, 'Galo', '0800-321-6548', 'Brasil');
+
+SELECT * FROM produto;

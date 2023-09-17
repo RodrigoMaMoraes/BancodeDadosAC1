@@ -1,0 +1,88 @@
+
+CREATE TABLE filme (
+    titulo VARCHAR(100) PRIMARY KEY,
+    duracao INT ,
+    idioma_original VARCHAR(50) ,
+    preco DECIMAL(10, 2)
+);
+
+
+INSERT INTO filme (titulo, duracao, idioma_original, preco)
+VALUES ('Senhor dos Anéis: A Sociedade do Anel', 178, 'Inglês', 15.99);
+
+
+INSERT INTO filme (titulo, duracao, idioma_original, preco)
+VALUES ('Jurassic Park', 127, 'Inglês', 12.99);
+
+
+INSERT INTO filme (titulo, duracao, idioma_original, preco)
+VALUES ('O Rei Leão', 88, 'Inglês', 9.49);
+
+
+INSERT INTO filme (titulo, duracao, idioma_original, preco)
+VALUES ('E.T. - O Extraterrestre', 115, 'Inglês', 11.49);
+
+
+INSERT INTO filme (titulo, duracao, idioma_original, preco)
+VALUES ('Ben 10, 148, 'Inglês', 14.49);
+
+
+SELECT*FROM filme;
+
+CREATE TABLE elenco (
+    nome VARCHAR(100) ,
+    data_nascimento DATE ,
+    nacionalidade VARCHAR(50)
+);
+
+
+INSERT INTO elenco (nome, data_nascimento, nacionalidade)
+VALUES ('Leonardo DiCaprio', '1992-11-11', 'Estados Unidos');
+
+
+INSERT INTO elenco (nome, data_nascimento, nacionalidade)
+VALUES ('Natalie Portman', '1991-06-09', 'Estados Unidos');
+
+
+INSERT INTO elenco (nome, data_nascimento, nacionalidade)
+VALUES ('Jim” Parsons', '1990-03-01', 'Estados Unidos');
+
+
+INSERT INTO elenco (nome, data_nascimento, nacionalidade)
+VALUES ('Kaley Cuoco', '1990-10-28', 'Estados Unidos');
+
+
+INSERT INTO elenco (nome, data_nascimento, nacionalidade)
+VALUES ('John Galecki', '1985-10-11', 'Estados Unidos');
+
+SELECT*FROM elenco;
+
+CREATE TABLE diretor (
+    nome VARCHAR(100) ,
+    data_nascimento DATE ,
+    filmes_dirigidos VARCHAR(500)
+);
+
+
+INSERT INTO diretor (nome, data_nascimento, filmes_dirigidos)
+VALUES ('Steven Spielberg', '1946-12-18', 'Indiana Jones e a Última Cruzada');
+
+
+INSERT INTO diretor (nome, data_nascimento, filmes_dirigidos)
+VALUES ('Quentin Tarantino', '1963-03-27', 'Kill Bill');
+
+
+INSERT INTO diretor (nome, data_nascimento, filmes_dirigidos)
+VALUES ('Christopher Nolan', '1970-07-30', 'Batman: O Cavaleiro das Trevas');
+
+
+INSERT INTO diretor (nome, data_nascimento, filmes_dirigidos)
+VALUES ('Francis Lawrence', '1983-08-04', 'Jogos Vorazes');
+
+
+INSERT INTO diretor (nome, data_nascimento, filmes_dirigidos)
+VALUES ('Michael Bay', '1942-11-17', 'Transformers');
+
+SELECT*FROM diretor;
+
+

@@ -1,0 +1,57 @@
+CREATE TABLE cliente (
+    id INTEGER PRIMARY KEY,
+    cpf VARCHAR(11),
+    email VARCHAR(100),
+    telefone VARCHAR(20)
+);
+
+
+INSERT INTO cliente (cpf, email, telefone)
+VALUES ('12345678901', 'cliente1@email.com', '+55123456789');
+
+
+INSERT INTO cliente (cpf, email, telefone)
+VALUES ('12345678902', 'cliente2@email.com', '+55234567890');
+
+
+INSERT INTO cliente (cpf, email, telefone)
+VALUES ('12345678903', 'cliente3@email.com', '+55345678901');
+
+
+INSERT INTO cliente (cpf, email, telefone)
+VALUES ('12345678904', 'cliente4@email.com', '+55456789012');
+
+
+INSERT INTO cliente (cpf, email, telefone)
+VALUES ('12345678905', 'cliente5@email.com', '+55567890123');
+
+SELECT*FROM cliente;
+
+
+CREATE TABLE pet (
+    nome VARCHAR(50) PRIMARY KEY,
+    especie VARCHAR(50) ,
+    data_nascimento DATE
+);
+
+
+INSERT INTO pet (nome, especie, data_nascimento)
+VALUES ('Rex', 'Cachorro', '2019-03-15');
+
+
+INSERT INTO pet (nome, especie, data_nascimento)
+VALUES ('Patolino', 'Gato', '2020-07-10');
+
+
+INSERT INTO pet (nome, especie, data_nascimento)
+VALUES ('Frajola', 'Cachorro', '2018-12-05');
+
+
+INSERT INTO pet (nome, especie, data_nascimento)
+VALUES ('Clark', 'Coelho', '2019-05-20');
+
+
+INSERT INTO pet (nome, especie, data_nascimento)
+VALUES ('Patinha', 'Gato', '2017-09-03');
+
+SELECT*FROM pet;

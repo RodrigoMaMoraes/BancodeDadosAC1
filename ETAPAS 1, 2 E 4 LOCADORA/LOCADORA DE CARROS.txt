@@ -1,0 +1,29 @@
+CREATE TABLE carro (
+    placa VARCHAR(10),
+    modelo VARCHAR(50),
+    ano INT,
+    montadora VARCHAR(50),
+    site_montadora VARCHAR(100),
+    logotipo_montadora VARCHAR(100)
+);
+
+INSERT INTO carro (placa, modelo, ano, montadora, site_montadora, logotipo_montadora)
+VALUES ('ABC123', 'Corolla', 2022, 'Toyota', 'www.toyota.com.br/', 'toyota_logo.png');
+
+
+INSERT INTO carro (placa, modelo, ano, montadora, site_montadora, logotipo_montadora)
+VALUES ('ABC321', 'Civic', 2021, 'Honda', 'www.honda.com.br/', 'honda_logo.png');
+
+
+INSERT INTO carro (placa, modelo, ano, montadora, site_montadora, logotipo_montadora)
+VALUES ('ABC222', 'Golf', 2020, 'Volkswagen', 'www.vw.com.br/', 'vw_logo.png');
+
+
+INSERT INTO carro (placa, modelo, ano, montadora, site_montadora, logotipo_montadora)
+VALUES ('ABC333', 'Accord', 2022, 'Honda', 'www.honda.com.br/', 'honda_logo.png');
+
+
+INSERT INTO carro (placa, modelo, ano, montadora, site_montadora, logotipo_montadora)
+VALUES ('ABC777', 'Fusion', 2023, 'Ford', 'www.ford.com.br/', 'ford_logo.png');
+
+SELECT*FROM carro;
