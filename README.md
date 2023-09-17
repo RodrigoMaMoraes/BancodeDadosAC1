@@ -3,6 +3,8 @@
 Entrega das atividades feitas na materia de Banco de dados.
 
 ## Etapa 1 - DER
+
+
 PETSHOP: Um petshop deseja manter cadastrados seus clientes bem como seus pets.
 Um cliente deve informar seu nome, CPF, e-mail e telefone, além do nome, espécie e data de nascimento de seu pet.
 
@@ -93,4 +95,18 @@ Segue abaixo a figura referente ao exercício.
 
 ![VIDEOTECA2](https://github.com/RodrigoMaMoraes/BancodeDadosAC1/blob/main/ETAPAS%201%2C%202%20E%204%20VIDEOTECA/VIDEOTECA%202.png)
 
-##  Etapa 3 - 
+##  Etapa 3 - INTRODUÇÃO A LINGUAGEM SQL
+
+
+Exercícios :
+1 — Crie um banco de dados para armazenar dados de alunos. Um aluno deve ter RA, nome, data de nascimento, endereço e e-mail;
+
+2 — Crie um banco de dados para armazenar dados de colaboradores de uma empresa. Um colaborador deve ter um código de identificação, nome, CPF, cargo e salário;
+
+Insira pelo menos 5 registros em cada tabela;
+
+Segue abaixo arquivo referente ao exercício em formato .txt
+
+https://github.com/RodrigoMaMoraes/BancodeDadosAC1/blob/main/ETAPA%203/BD%20Alunos.txt
+
+https://github.com/RodrigoMaMoraes/BancodeDadosAC1/blob/main/ETAPA%203/BD%20Empresa.txt
