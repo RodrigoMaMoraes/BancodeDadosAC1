@@ -51,5 +51,27 @@ Segue abaixo a figura referente ao exercício.
 
 ##  Etapa 2 - MER, CARDINALIDADE, ATRIBUTOS SIMPLES; COMPOSTOS; MULTIVALORADOS; DERIVADOS; IDENTIFICADORES.
 
+PETSHOP: Um petshop deseja manter cadastrados seus clientes bem como seus pets.
+Um cliente deve informar seu nome, CPF, e-mail e telefone, além do nome, espécie e data de nascimento de seu pet.
+
+Segue abaixo a figura referente ao exercício.
+
+
+![PETSHOP2](https://github.com/RodrigoMaMoraes/BancodeDadosAC1/blob/main/ETAPAS%201%2C%202%20E%204%20PETSHOP/PETSHOP%202.png)
+
+
+PRODUTORA DE GAMES: Em uma produtora de games, há desenvolvedores, que possuem um nome, CPF, data de nascimento.
+Cada projeto tem um nome, data de lançamento, gênero e faixa etária. 
+Segundo o gerente de projetos, “cada desenvolvedor deve estar envolvido em um projeto”.
+
+Segue abaixo a figura referente ao exercício.
+
+
+![PRODUTORA2](https://github.com/RodrigoMaMoraes/BancodeDadosAC1/blob/main/ETAPAS%201%2C%202%20E%204%20PRODUTORA/PRODUTORA.png)
+
+
+
+
+
 
 
