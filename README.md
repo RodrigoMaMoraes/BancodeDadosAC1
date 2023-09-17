@@ -36,6 +36,13 @@ Segue abaixo a figura referente ao exercício.
 
 ![LOCADORA](https://github.com/RodrigoMaMoraes/BancodeDadosAC1/blob/main/ETAPAS%201%2C%202%20E%204%20LOCADORA/LOCADORA.png)
 
+SUPERMERCADO:Um supermercado cadastra seus produtos. Um produto é identificado por seu nome, preço, quantidade em estoque, nome da marca, SAC da marca, nacionalidade da marca.
+
+Segue abaixo a figura referente ao exercício.
+
+![SUPERMERCADO](https://github.com/RodrigoMaMoraes/BancodeDadosAC1/blob/main/ETAPAS%201%2C%202%20E%204%20SUPERMERCADO/SUPERMERCADO.png)
+
+
 
 ## Etapa 3
 O personagem (pássaro) se movimenta na horizonta seguindo para a direita, o jogo estabelece uma gravidade no personagem e irão aparecer obstaculos (canos) no caminho do personagem. O jogador deverá tocar na tela do celular para executar pequenos saltos para ultrapassar a abertura entre os canos. A cada ultrapassagem será adicionado um ponto no marcador. Caso o jogador encoste no cano o jogo términa e será apresentado a pontuação que o jogador realizou na partida e a melhor que tenha realizado jogando.
