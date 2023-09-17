@@ -24,7 +24,7 @@ Segue abaixo a figura referente ao exercício.
 ## NESTE EXERCÍCIO SERÁ OBSERVADO A CARDINALIDADE ENTRE OS COMPONENTES APRESENTADOS, ALÉM DA IDENTIFICAÇÃO DOS ELEMENTOS DO DER.
 
 
-BIBLIOTECA:Uma biblioteca efetua registro de autores e livros. Um autor é cadastrado com seu nome, e-mail, nacionalidade e data de nascimento. Já um livro é registrado com o título, quantidade de páginas, acabamento e editora.
+BIBLIOTECA: Uma biblioteca efetua registro de autores e livros. Um autor é cadastrado com seu nome, e-mail, nacionalidade e data de nascimento. Já um livro é registrado com o título, quantidade de páginas, acabamento e editora.
 
 Segue abaixo a figura referente ao exercício.
 
@@ -36,12 +36,17 @@ Segue abaixo a figura referente ao exercício.
 
 ![LOCADORA](https://github.com/RodrigoMaMoraes/BancodeDadosAC1/blob/main/ETAPAS%201%2C%202%20E%204%20LOCADORA/LOCADORA.png)
 
-SUPERMERCADO:Um supermercado cadastra seus produtos. Um produto é identificado por seu nome, preço, quantidade em estoque, nome da marca, SAC da marca, nacionalidade da marca.
+SUPERMERCADO: Um supermercado cadastra seus produtos. Um produto é identificado por seu nome, preço, quantidade em estoque, nome da marca, SAC da marca, nacionalidade da marca.
 
 Segue abaixo a figura referente ao exercício.
 
 ![SUPERMERCADO](https://github.com/RodrigoMaMoraes/BancodeDadosAC1/blob/main/ETAPAS%201%2C%202%20E%204%20SUPERMERCADO/SUPERMERCADO.png)
 
+VIDEOTECA: Uma videoteca precisa cadastrar o título, duração, idioma original e preço de cada filme. É necessário cadastrar também o elenco de cada filme onde se registra o nome, data de nascimento, nacionalidade de cada ator/atriz. Opcionalmente, inclua o cadastro de diretores com atributos que julgar necessários.
+
+Segue abaixo a figura referente ao exercício.
+
+![VIDEOTECA](https://github.com/RodrigoMaMoraes/BancodeDadosAC1/blob/main/ETAPAS%201%2C%202%20E%204%20VIDEOTECA/VIDEOTECA.png)
 
 
 ## Etapa 3
