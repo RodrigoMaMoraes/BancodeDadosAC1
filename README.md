@@ -69,9 +69,11 @@ Segue abaixo a figura referente ao exercício.
 
 ![PRODUTORA2](https://github.com/RodrigoMaMoraes/BancodeDadosAC1/blob/main/ETAPAS%201%2C%202%20E%204%20PRODUTORA/PRODUTORA.png)
 
+BIBLIOTECA: Uma biblioteca efetua registro de autores e livros. Um autor é cadastrado com seu nome, e-mail, nacionalidade e data de nascimento. Já um livro é registrado com o título, quantidade de páginas, acabamento e editora.
 
+Segue abaixo a figura referente ao exercício.
 
-
+![biblioteca2](https://github.com/RodrigoMaMoraes/BancodeDadosAC1/blob/main/ETAPAS%201%2C%202%20E%204%20BIBLIOTECA/BIBLIOTECA%20ETAPA%202.png)
 
 
 
