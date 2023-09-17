@@ -75,5 +75,22 @@ Segue abaixo a figura referente ao exercício.
 
 ![biblioteca2](https://github.com/RodrigoMaMoraes/BancodeDadosAC1/blob/main/ETAPAS%201%2C%202%20E%204%20BIBLIOTECA/BIBLIOTECA%20ETAPA%202.png)
 
+LOCADORA DE CARROS: Uma locadora de automóveis, mantém registro dos automóveis. Um automóvel é cadastrado com placa, modelo, ano, nome da montadora, site da montadora, logotipo da montadora.
 
+Segue abaixo a figura referente ao exercício.
 
+![LOCADORA2](https://github.com/RodrigoMaMoraes/BancodeDadosAC1/blob/main/ETAPAS%201%2C%202%20E%204%20LOCADORA/LOCADORA%20ETAPA%202.png)
+
+SUPERMERCADO: Um supermercado cadastra seus produtos. Um produto é identificado por seu nome, preço, quantidade em estoque, nome da marca, SAC da marca, nacionalidade da marca.
+
+Segue abaixo a figura referente ao exercício.
+
+![SUPERMERCADO](https://github.com/RodrigoMaMoraes/BancodeDadosAC1/blob/main/ETAPAS%201%2C%202%20E%204%20SUPERMERCADO/SUPERMERCADO2.PN.png)
+
+VIDEOTECA: Uma videoteca precisa cadastrar o título, duração, idioma original e preço de cada filme. É necessário cadastrar também o elenco de cada filme onde se registra o nome, data de nascimento, nacionalidade de cada ator/atriz. Opcionalmente, inclua o cadastro de diretores com atributos que julgar necessários.
+
+Segue abaixo a figura referente ao exercício.
+
+![VIDEOTECA2](https://github.com/RodrigoMaMoraes/BancodeDadosAC1/blob/main/ETAPAS%201%2C%202%20E%204%20VIDEOTECA/VIDEOTECA%202.png)
+
+##  Etapa 3 - 
