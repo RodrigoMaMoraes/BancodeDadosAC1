@@ -1,0 +1,27 @@
+Atividade de BD - ALUNOS ( AULA 04/09/2023 - slide 18)
+
+CREATE TABLE alunos (
+  RA  INT,
+  Nome VARCHAR (20),
+  Data de Nascimento VARCHAR (08),
+  Endereco VARCHAR (40),
+  Email VARCHAR (40)
+  );
+
+INSERT INTO alunos (ra, nome, data, endereco, email)
+  VALUES (123456, "Pedro Bighi", "15012001", "Av. Eng. Carlos Reinaldo Mendes, 2015 - Além Ponte, Sorocaba - SP, 18013-280", "PedroBig@gmail.com");
+
+INSERT INTO alunos (ra, nome, data, endereco, email)
+  VALUES (654321, "Lucas Freitas", "11022001", "Rod. Raposo Tavares, km 92,5 - Vila Artura, Sorocaba - SP, 18023-000", "LucasFreitas@gmail.com");
+
+INSERT INTO alunos (ra, nome, data, endereco, email)
+  VALUES (222333, "Gabriel Bulget", "02032001", " Rodovia Senador José Ermírio de Moraes, 1425 - Jardim Constantino Matucci, Sorocaba - SP, 18085-784", "GaBulget@gmail.com");
+
+INSERT INTO alunos (ra, nome, data, endereco, email)
+  VALUES (888123, "Evaristo Alibabua", "07082001", " Av. Dr. Armando Pannunzio, 1478 - Sala 1 - Jardim Itangua, Sorocaba - SP, 18050-000", "EvaristoAlibabua@gmail.com");
+
+INSERT INTO alunos (ra, nome, data, endereco, email)
+  VALUES (753159, "Mateus Rodrigo", "03121960", " Av. Independência, 210 - Éden, Sorocaba - SP, 18087-101", "RoMateus@gmail.com");
+
+SELECT * FROM alunos;
+

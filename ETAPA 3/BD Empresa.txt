@@ -1,0 +1,27 @@
+Atividade de BD - EMPRESA( AULA 04/09/2023 - slide 18)
+
+CREATE TABLE colaboradores(
+  ID INT,
+  Nome VARCHAR (20),
+  CPF INT (11),
+  Cargo VARCHAR (40),
+  Salario decimal(07)
+  );
+
+INSERT INTO colaboradores (id, nome, cpf, cargo, salario)
+  VALUES (123456, "Pedro Bighi", "12345678912", "Assistente Administrativo", "1.600");
+
+INSERT INTO colaboradores (id, nome, cpf, cargo, salario)
+  VALUES (123457, "Lucas Lucco", "12345678921", "Analista de Sistemas", "2.500");
+
+INSERT INTO colaboradores (id, nome, cpf, cargo, salario)
+  VALUES (123467, "Peter Parker", "12345678123", "MotoBoy", "1.300");
+
+INSERT INTO colaboradores (id, nome, cpf, cargo, salario)
+  VALUES (555444, "Jhin Pudim", "12345678321", "Diretor", "6.000");
+
+INSERT INTO colaboradores (id, nome, cpf, cargo, salario)
+  VALUES (777888, "Cidinei Clovis", "12345678344", "Supervisor de Produção", "3.000");
+
+SELECT* FROM colaboradores
+
