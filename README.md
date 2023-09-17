@@ -109,3 +109,26 @@ Segue abaixo arquivo referente ao exercício em formato .txt
 https://github.com/RodrigoMaMoraes/BancodeDadosAC1/blob/main/ETAPA%203/BD%20Alunos.txt
 
 https://github.com/RodrigoMaMoraes/BancodeDadosAC1/blob/main/ETAPA%203/BD%20Empresa.txt
+
+##  Etapa 4 - BASE DE DADOS DE CADA EXERCÍCIO DA ETAPA 1
+
+
+## PETSHOP:
+https://github.com/RodrigoMaMoraes/BancodeDadosAC1/blob/main/ETAPAS%201%2C%202%20E%204%20PETSHOP/PETSHOP.txt
+
+## PRODUTORA DE GAMES:
+https://github.com/RodrigoMaMoraes/BancodeDadosAC1/blob/main/ETAPAS%201%2C%202%20E%204%20PRODUTORA/PRODUTORA%20DE%20JOGOS.txt
+
+## BIBLIOTECA:
+https://github.com/RodrigoMaMoraes/BancodeDadosAC1/blob/main/ETAPAS%201%2C%202%20E%204%20BIBLIOTECA/BIBLIOTECA.txt
+
+## LOCADORA DE CARROS:
+https://github.com/RodrigoMaMoraes/BancodeDadosAC1/blob/main/ETAPAS%201%2C%202%20E%204%20LOCADORA/LOCADORA%20DE%20CARROS.txt
+
+## SUPERMERCADO:
+https://github.com/RodrigoMaMoraes/BancodeDadosAC1/blob/main/ETAPAS%201%2C%202%20E%204%20SUPERMERCADO/SUPERMERCADO.txt
+
+## VIDEOTECA:
+https://github.com/RodrigoMaMoraes/BancodeDadosAC1/blob/main/ETAPAS%201%2C%202%20E%204%20VIDEOTECA/VIDEOTECA.txt
+
+
