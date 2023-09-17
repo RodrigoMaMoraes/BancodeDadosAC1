@@ -8,7 +8,7 @@ Um cliente deve informar seu nome, CPF, e-mail e telefone, além do nome, espéc
 
 
 
-![PETSHOP.png]https://github.com/RodrigoMaMoraes/BancodeDadosAC1/blob/main/ETAPAS%201%2C%202%20E%204%20PETSHOP/PETSHOP.png
+![PETSHOP](https://github.com/RodrigoMaMoraes/BancodeDadosAC1/assets/80014526/7cca3630-a3b1-4946-83ec-e85c8e243da1)
 
 ## Etapa 2
 O personagem (pássaro) se movimenta na horizonta seguindo para a direita, o jogo estabelece uma gravidade no personagem e irão aparecer obstaculos (canos) no caminho do personagem. O jogador deverá tocar na tela do celular para executar pequenos saltos para ultrapassar a abertura entre os canos. A cada ultrapassagem será adicionado um ponto no marcador. Caso o jogador encoste no cano o jogo términa e será apresentado a pontuação que o jogador realizou na partida e a melhor que tenha realizado jogando.
